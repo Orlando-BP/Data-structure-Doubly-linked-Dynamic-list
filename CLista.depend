@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1581349448 source:c:\users\x\desktop\clista\cnodo.cpp
+	<iostream>
+	"CNodo.h"
+
+1581351780 c:\users\x\desktop\clista\cnodo.h
+
+1581303315 c:\users\x\desktop\clista\cnodo.cpp
+	<iostream>
+	"CNodo.h"
+
+1581350195 source:c:\users\x\desktop\clista\main.cpp
+	<iostream>
+	"CNodo.h"
+	"CLista.h"
+
+1581351780 c:\users\x\desktop\clista\clista.h
+
+1581464887 source:c:\users\x\documents\cucei\sed2\clista\cnodo.cpp
+	<iostream>
+	"CNodo.h"
+
+1581355380 c:\users\x\documents\cucei\sed2\clista\cnodo.h
+
+1588617894 source:c:\users\x\documents\cucei\sed2\clista\main.cpp
+	<iostream>
+	"CLista.h"
+
+1588617945 c:\users\x\documents\cucei\sed2\clista\clista.h
+	"CNodo.h"
+
